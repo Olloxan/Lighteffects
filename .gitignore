@@ -1,0 +1,10 @@
+/src
+/Release
+/Debug
+/__vm
+
+*.user
+*.filters
+*.vcxproj
+*.sln
+/.vs
